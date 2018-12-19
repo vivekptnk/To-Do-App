@@ -19,7 +19,7 @@ class App extends Component {
               href="https://github.com/vivekptnk"
               target="_blank"
             >
-              <img src={logo} width="50" height="50" alt="todologo" />
+              <img src={logo} width="70" height="70" alt="todologo" />
             </a>
 
             <Link to="/" className="navbar-brand">
