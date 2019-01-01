@@ -15,7 +15,7 @@ export default class CreateToDo extends Component {
       todo_responsible: "",
       todo_priority: "",
       todo_completed: false
-    };
+    }
   }
 
   onChangeTodoDescription(e) {
@@ -60,7 +60,7 @@ export default class CreateToDo extends Component {
       todo_responsible: "",
       todo_priority: "",
       todo_completed: false
-    };
+    }
   }
 
   render() {
@@ -133,6 +133,6 @@ export default class CreateToDo extends Component {
           </div>
         </form>
       </div>
-    );
+    )
   }
 }
